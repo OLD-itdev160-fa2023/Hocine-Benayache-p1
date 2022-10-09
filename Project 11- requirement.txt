@@ -1,0 +1,12 @@
+﻿Project 1 
+
+
+Description: 
+I am making a webpage to introduce my home country Algeria with the possibility to go to check some famous cities over there.
+
+Feature List: 
+In the header start with a simple picture of the capital of algeria with the title, also I used javascript to make a small message for the users blinking.
+I made a paragraph about Algeria with a picture.
+I put a list with links to check some cities in Algeria. 
+
+

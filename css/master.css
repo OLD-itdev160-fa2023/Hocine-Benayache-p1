@@ -1,0 +1,119 @@
+html {
+	background-color: #696969 ;
+}
+
+
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	width: 960px;
+	background-color: white;
+	margin: 1em auto;
+	padding: 0;
+	border: solid;
+}
+
+section {
+	margin-top: 1.5em;
+	margin-bottom: 1em;	
+	margin-left: 25px;
+}
+
+a { font-weight: bold; }
+a:link, a:visited { color: black; }
+a:hover, a:active { color: #009246; }
+
+p { padding-bottom: 0.5em;
+    text-align: justify; 
+}
+	
+em { font-weight: bold; }
+
+/* the styles for the header */
+header {
+	background-color: #009246;
+	padding-bottom: 1em;
+}
+header h1 {
+    font-family: 'Italianno';
+    font-size: 350%;
+	font-weight: bold;
+    color: white;
+    text-shadow: 5px 5px 10px red;
+    padding-top: .25em;
+    margin-left: 25px;
+}
+header h3 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 150%;
+	margin-left: 25px;
+    color: yellow;
+    text-align: center;
+}
+header aside {
+    float: right;
+    padding-top: 30px;
+    padding-right: 20px;
+    width: 468px;
+    
+}
+	
+header img {
+    border: solid;
+    border-color:black;
+}
+
+
+section {
+	width: 645px;
+	padding-right: 20px;
+	float: right;
+}
+section h1 {
+	font-size: 200%;
+	margin-bottom: 0.35em; 
+	color: #CE2B37;
+}
+section img {
+	float: left;
+	margin: 0 1.5em 1em 0;
+    size: 100px;
+}
+
+
+
+/* the styles for the sidebar */
+main aside {
+	width:auto;
+	float: right;
+	padding-right: 20px;
+}
+main aside h2 {
+	font-size: 125%;
+	color: #009246;
+	margin-top: 1.7em;
+	padding-bottom: .5em;
+}
+main aside ul { 
+	margin-left: 1.5em;
+	margin-bottom: 1.5em;
+    
+}
+main aside li {
+	padding-bottom: 0.25em;
+    
+}
+
+/* the styles for the footer */
+footer {
+	clear: both;
+	padding-top: 1em;
+	background-color: #CE2B37;
+}
+footer p {
+	font-size: 80%;
+	color: white;
+	margin-left: 25px;
+	padding-bottom: 1em;
+}
